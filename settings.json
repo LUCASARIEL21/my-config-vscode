@@ -1,0 +1,110 @@
+{
+    "sqldeveloper.telemetry.enabled": true,
+    "glassit.alpha": 220,
+    "workbench.colorTheme": "Min Dark",
+    "workbench.iconTheme": "symbols",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.8,
+    "editor.fontLigatures": true,
+    "workbench.editor.labelFormat": "short",
+    "explorer.compactFolders": false,
+    "editor.semanticHighlighting.enabled": "configuredByTheme",
+    "terminal.integrated.fontFamily": "monospace",
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    "explorer.confirmDragAndDrop": false,
+    "workbench.startupEditor": "none",
+    "extensions.supportUntrustedWorkspaces": {},
+    "liveServer.settings.donotVerifyTags": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "DockerRun.DisableAutoGenerateConfig": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "githubPullRequests.createOnPublishBranch": "never",
+    "console-ninja.featureSet": "Community",
+    "apc.font.family": "JetBrains Mono",
+    "terminal.integrated.fontSize": 14,
+    "explorer.fileNesting.enabled": true,
+    "explorer.fileNesting.patterns": {
+      "package.json": ".eslint*, prettier*, tsconfig*, vite*, pnpm-*, bun.lockb, nest*, package-lock*",
+      "tailwind.config.*": "tailwind.config*, postcss.config*",
+      ".env.local": ".env*",
+      ".env": ".env*"
+    },
+    "apc.stylesheet": {
+      ".title-label > h2": "display: none"
+    },
+    "apc.header": {
+      "height": 36
+    },
+    "apc.listRow": {
+      "height": 24
+    },
+    "[javascriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[xml]": {
+      "editor.defaultFormatter": "redhat.vscode-xml"
+    },
+    "emmet.includeLanguages": {
+      "javascript": "javascriptreact",
+      "mdx": "javascriptreact"
+    },
+    "emmet.syntaxProfiles": {
+      "javascript": "javascriptreact",
+      "mdx": "jsx"
+    },
+    "[css]": {
+      "editor.defaultFormatter": "michelemelluso.code-beautifier"
+    },
+    "[typescriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.editorAssociations": {
+      "*.xlsx": "default"
+    },
+    "[json]": {
+      "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "oracledevtools.connectionConfiguration.configFilesFolder": "C:\\Users\\lukas\\Oracle\\network\\admin",
+    "[oraclesql]": {
+      "editor.suggest.showSnippets": true,
+      "editor.quickSuggestions": {
+        "comments": "on",
+        "strings": "on",
+        "other": "on"
+      }
+    },
+    "oracledevtools.connectionConfiguration.walletFileFolder": "C:\\Users\\lukas\\Oracle\\network\\admin",
+    "oracledevtools.bookmarkFileFolder": "C:\\Users\\lukas\\Oracle\\oracle.oracledevtools",
+    "oracledevtools.download.otherFolder": "C:\\Users\\lukas\\downloads",
+    "editor.minimap.enabled": false,
+    "terminal.integrated.env.windows": {},
+    "mssql.connections": [
+      {
+        "server": "PC-ZLUK4SX\\SQLEXPRESS",
+        "database": "FARMACIA",
+        "authenticationType": "SqlLogin",
+        "user": "rootuser",
+        "password": "",
+        "emptyPasswordInput": false,
+        "savePassword": true,
+        "profileName": "banco estoque",
+        "encrypt": "Mandatory",
+        "trustServerCertificate": true,
+        "connectTimeout": 15,
+        "commandTimeout": 30,
+        "applicationName": "vscode-mssql"
+      }
+    ],
+    "[jsonc]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+      "editor.defaultFormatter": "vscode.typescript-language-features"
+    }
+  }
+  
